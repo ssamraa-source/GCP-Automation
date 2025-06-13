@@ -3,7 +3,7 @@ name: Dev Pipeline
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   build:
